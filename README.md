@@ -1,4 +1,4 @@
-## App com comunicação WEB <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40"/>
+## App com comunicação WEB <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg"  width="40" height="40"/>
 
 💬 Fiz com que um aplicativo salve informações na internet com uma Web API
 
